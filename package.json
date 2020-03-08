@@ -1,5 +1,6 @@
 {
-  "name": "react-native-action-button",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "name": "@boulgom/react-native-action-button",
   "version": "2.9.0",
   "description": "customizable multi-action-button component for react-native",
   "main": "ActionButton.js",
@@ -8,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mastermoo/react-native-action-button.git"
+    "url": "https://github.com/boulgom/react-native-action-button.git"
   },
   "keywords": [
     "react-native",
